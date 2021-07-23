@@ -1,4 +1,4 @@
 # SubProject
 
 Reference 
-: http://minsone.github.io/ios/mac/swift-package-manager-proxy-modular
+:https://minsone.github.io/ios/mac/ios-framework-part-2-project-subproject-dependencies
