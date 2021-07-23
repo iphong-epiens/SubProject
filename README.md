@@ -2,6 +2,6 @@
 
 # Reference 
 
-#[iOS][Xcode] Framework Part 2 : 프로젝트, 서브 프로젝트, Dependencies, 그리고 Static, Dynamic Framework
+[Swift 5.3+] Binary Framework(XCFramework)를 Swift Package로 배포하기(2) - iOS 프로젝트에 사용하기
 
-https://minsone.github.io/ios/mac/ios-framework-part-2-project-subproject-dependencies
+http://minsone.github.io/programming/distributing-binary-frameworks-as-swift-packages-2
